@@ -5,5 +5,5 @@
 
 
  1. Use EXPLAIN to identify query performance issue
- 2. Reconsider the use of multiple wildcards (LIKE OR) 
+ 2. Reconsider not to use of multiple wildcards (LIKE OR).
  3. ADD INDEXING (type, id, deleted)
